@@ -2,7 +2,7 @@
 
 #### Hi 👋  Welcome to my EE308FZ blog !
 
-![请添加图片描述](https://s2.loli.net/2022/10/22/aLYq8JtblNXdKxT.jpg)
+<img src="https://s2.loli.net/2022/10/22/aLYq8JtblNXdKxT.jpg" alt="请添加图片描述" style="zoom: 33%;" />
 
 ## About me
 My name is **Hanlin Cai (Lance)**. I am a junior majoring in Automation at [Fuzhou University] (China) and Robotics and Intelligent Devices at [Maynooth University] (Ireland, Combined Degrees). I gain a CGPA of **3.79/4.00**, ranking top 10% in my major. Recently, I am nominated for the 2021-2022 **China National Scholarship** (top 1%). 🎊
@@ -19,10 +19,10 @@ Besides, I am currently attending a summer research project organized by the Uni
 **My latest research paper can be fund here:**
 
 1. [An IoT Garbage Monitoring System for Effective Garbage Management] which has been accpeted by  2022 [CENIM] IEEE conference.
-    <img src="https://img-blog.csdnimg.cn/c48a83e1e0674e7e8753bc9999e76549.png#pic_center" alt="Alt" style="zoom:67%;" />
+    <img src="https://img-blog.csdnimg.cn/c48a83e1e0674e7e8753bc9999e76549.png#pic_center" alt="Alt" style="zoom: 33%;" />
 2. [RIGMS Testbed for IoT Cybersecurity Research Using Machine Learning Based Approach] which is still under working.
 
-![Alt](https://img-blog.csdnimg.cn/1682bcb374734239adec3670d78d385d.png#pic_center)
+<img src="https://img-blog.csdnimg.cn/1682bcb374734239adec3670d78d385d.png#pic_center" alt="Alt" style="zoom: 25%;" />
 
 
 
