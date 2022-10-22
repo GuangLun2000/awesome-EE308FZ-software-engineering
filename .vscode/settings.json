@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "algorithm": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "set": "cpp"
     }
 }
