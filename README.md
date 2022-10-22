@@ -29,7 +29,7 @@ Besides, I am currently attending a summer research project organized by the Uni
 | My EE308 Main Class| [Here]|
 |--|--|
 | My Email                   | hanlin.cai@ieee.org   |
-| The aim of this assignment | For Self-Introduction|
+| My Web | www.hanlincai.com |
 | MU Student ID | 20122161 |
 |FZU Student ID|832002117|
 
