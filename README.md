@@ -1,37 +1,26 @@
-<<<<<<< HEAD
 # Awesome Repo for EE308FZ
+
+#### Hi 👋  Welcome to my EE308FZ blog !
 
 ![请添加图片描述](https://s2.loli.net/2022/10/22/aLYq8JtblNXdKxT.jpg)
 
-
-
-Hi 👋 and welcome to my EE308FZ blog !
-=======
 ## About me
-Hi 👋 and welcome to my EE308 blog !
->>>>>>> 9e250c42c352d8ed4bfd7631e7057d16e83921c6
-
 My name is **Hanlin Cai (Lance)**. I am a junior majoring in Automation at [Fuzhou University] (China) and Robotics and Intelligent Devices at [Maynooth University] (Ireland, Combined Degrees). I gain a CGPA of **3.79/4.00**, ranking top 10% in my major. Recently, I am nominated for the 2021-2022 **China National Scholarship** (top 1%). 🎊
 
 [My personal Website] averages over 1000+ views a month. In addition, my [Zhihu] account has more than 1200+ followers and 10000+ likes, and my [Bilibili] account possesses around 2000 followers. Ultimately, if you are interested in my experience, here is [my resume (CV)]. 👨🏻‍💻
 
 <img src="https://www.caihanlin.com/caihanlin.jpg" class="floatpic" width="240" height="320">
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 9e250c42c352d8ed4bfd7631e7057d16e83921c6
 ## My Research Interests
 Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Learning)**. Also, the IEEE conference paper focusing on the real-time garbage monitoring base on IoT technology in 2022 [CENIM]  with the aid of my supervisor ([Chin-Hong Wong]) will be published in Dec, 2022. 
 
 Besides, I am currently attending a summer research project organized by the University of Cambridge (CCISTC) under the guidance of [Prof. Pietro Lio'] and exploring an ML-based scheme for IoT cybersecurity. 🚀
 
-
 **My latest research paper can be fund here:**
 
 1. [An IoT Garbage Monitoring System for Effective Garbage Management] which has been accpeted by  2022 [CENIM] IEEE conference.
-  <img src="https://img-blog.csdnimg.cn/c48a83e1e0674e7e8753bc9999e76549.png#pic_center" alt="Alt" style="zoom:67%;" />
-2. [RIGMS Testbed for IoT Cybersecurity Research Using Machine Learning Based Approach] Still under working!
+    <img src="https://img-blog.csdnimg.cn/c48a83e1e0674e7e8753bc9999e76549.png#pic_center" alt="Alt" style="zoom:67%;" />
+2. [RIGMS Testbed for IoT Cybersecurity Research Using Machine Learning Based Approach] which is still under working.
 
 ![Alt](https://img-blog.csdnimg.cn/1682bcb374734239adec3670d78d385d.png#pic_center)
 
