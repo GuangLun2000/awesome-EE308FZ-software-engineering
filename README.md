@@ -7,13 +7,12 @@ My name is **Hanlin Cai (Lance)**. I am a junior majoring in Automation at [Fuzh
 
 <img src="https://www.caihanlin.com/caihanlin.jpg" class="floatpic" width="240" height="320">
 
----
+
 ## My Research Interests
 Currently, I am interested in **IoT (Internet of Things)** and **ML (Machine Learning)**. Also, the IEEE conference paper focusing on the real-time garbage monitoring base on IoT technology in 2022 [CENIM]  with the aid of my supervisor ([Chin-Hong Wong]) will be published in Dec, 2022. 
 
 Besides, I am currently attending a summer research project organized by the University of Cambridge (CCISTC) under the guidance of [Prof. Pietro Lio'] and exploring an ML-based scheme for IoT cybersecurity. 🚀
 
----
 
 **My latest research paper can be fund here:**
 1. [An IoT Garbage Monitoring System for Effective Garbage Management] which has been accpeted by  2022 [CENIM] IEEE conference.
