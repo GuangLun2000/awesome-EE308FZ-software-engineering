@@ -2,7 +2,7 @@
 
 Hi, I'm Hanlin Cai, and you can call me Lance.
 
-Here is my personal webist: https://caihanlin.com
+Here is my personal website: https://caihanlin.com
 
 <img src="https://s2.loli.net/2022/10/24/yWvOq28rbZCEKYc.jpg" alt="repo-image" style="zoom: 25%;" />
 
