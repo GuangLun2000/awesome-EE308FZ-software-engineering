@@ -10,7 +10,7 @@ For my EE308FZ Lab1:
 
 3. This is my **Github Repo** for my EE308FZ course:[Repo]
 
-<img src="/Users/lancecai/Documents/GitHub/EE308FZ/Pic-for-Repo/repo-image.jpeg" alt="repo-image" style="zoom: 50%;" />
+<img src="https://s2.loli.net/2022/10/24/yWvOq28rbZCEKYc.jpg" alt="repo-image" style="zoom: 50%;" />
 
 
 
