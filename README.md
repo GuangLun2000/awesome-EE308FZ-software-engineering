@@ -21,7 +21,7 @@ Besides, I am currently attending a summer research project organized by the Uni
 
 
 
-**My latest research paper can be fund here:**
+##### **My latest research paper can be fund here:**
 
 1. [An IoT Garbage Monitoring System for Effective Garbage Management] which has been accpeted by  2022 [CENIM] IEEE conference.
 
@@ -30,8 +30,6 @@ Besides, I am currently attending a summer research project organized by the Uni
 2. [RIGMS Testbed for IoT Cybersecurity Research Using Machine Learning Based Approach] which is still under working.
 
 <img src="https://s2.loli.net/2022/10/24/LXj7mcfbgsqVIRS.png" alt="Fig1" style="zoom:25%;" />
-
----
 
 ## My Detailed Information.
 
