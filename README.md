@@ -2,9 +2,12 @@
 
 #### Hi 👋  Welcome to my EE308FZ blog !
 
+
+
 <img src="https://s2.loli.net/2022/10/22/aLYq8JtblNXdKxT.jpg" alt="请添加图片描述" style="zoom: 25%;" />
 
 ## About me
+
 My name is **Hanlin Cai (Lance)**. I am a junior majoring in Automation at [Fuzhou University] (China) and Robotics and Intelligent Devices at [Maynooth University] (Ireland, Combined Degrees). I gain a CGPA of **3.79/4.00**, ranking top 10% in my major. Recently, I am nominated for the 2021-2022 **China National Scholarship** (top 1%). 🎊
 
 [My personal Website] averages over 1000+ views a month. In addition, my [Zhihu] account has more than 1200+ followers and 10000+ likes, and my [Bilibili] account possesses around 2000 followers. Ultimately, if you are interested in my experience, here is [my resume (CV)]. 👨🏻‍💻
@@ -27,6 +30,10 @@ Besides, I am currently attending a summer research project organized by the Uni
 2. [RIGMS Testbed for IoT Cybersecurity Research Using Machine Learning Based Approach] which is still under working.
 
 <img src="https://s2.loli.net/2022/10/24/LXj7mcfbgsqVIRS.png" alt="Fig1" style="zoom:25%;" />
+
+
+
+
 
 | Main Class (on csdn) | [Here]|
 |--|--|
