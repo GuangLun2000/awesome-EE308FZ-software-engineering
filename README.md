@@ -22,11 +22,11 @@ Besides, I am currently attending a summer research project organized by the Uni
 
 1. [An IoT Garbage Monitoring System for Effective Garbage Management] which has been accpeted by  2022 [CENIM] IEEE conference.
 
-<img src="/Users/lancecai/Desktop/IoT-ML/0 Final Report/FPFP/2-Pic-for-FP/Fig3.png" alt="Fig3" style="zoom:33%;" />
+<img src="https://s2.loli.net/2022/10/24/UfTsthVYMwBJoHR.png" alt="Fig3" style="zoom:33%;" />
 
 2. [RIGMS Testbed for IoT Cybersecurity Research Using Machine Learning Based Approach] which is still under working.
 
-<img src="/Users/lancecai/Desktop/IoT-ML/0 Final Report/FPFP/2-Pic-for-FP/Fig1.png" alt="Fig1" style="zoom:25%;" />
+<img src="https://s2.loli.net/2022/10/24/LXj7mcfbgsqVIRS.png" alt="Fig1" style="zoom:25%;" />
 
 | Main Class (on csdn) | [Here]|
 |--|--|
