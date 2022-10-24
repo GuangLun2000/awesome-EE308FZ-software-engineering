@@ -1,4 +1,4 @@
-# EE308FZ LAB2 by Hanlin Cai
+# EE308FZ LAB2 by Hanlin Cai (832002117)
 
 Hi, I'm Hanlin Cai, and this is my README file for Lab 2.
 
