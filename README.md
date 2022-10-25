@@ -51,7 +51,7 @@ Besides, I am currently attending a summer research project organized by the Uni
 [Maynooth University]: https://maynoothuniversity.ie/
 [Chin-Hong Wong]: https://www.researchgate.net/profile/Chin-Hong-Wong
 [Prof. Pietro Lio']: https://www.cl.cam.ac.uk/~pl219/
-[my resume (CV)]:https://github.com/GuangLun2000/miec-club-lance/blob/main/about-me/CV-HanlinCAI-20221022.pdf
+[my resume (CV)]:https://caihanlin.com/file/CV-HanlinCAI.pdf
 [An IoT Garbage Monitoring System for Effective Garbage Management]:https://github.com/GuangLun2000/miec-club-lance/tree/main/Research-Paper/1-IoT-Garbage-Monitoring-in-CENIM2022
 [RIGMS Testbed for IoT Cybersecurity Research Using Machine Learning Based Approach]:https://github.com/GuangLun2000/miec-club-lance/tree/main/Research-Paper/2-IoT-ML-Cybersecurity-in-Cambridge
 
