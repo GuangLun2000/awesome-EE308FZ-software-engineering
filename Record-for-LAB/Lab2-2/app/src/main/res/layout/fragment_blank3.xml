@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/bgimg"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="306dp"
+        android:layout_height="93dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="-15dp"
+        android:letterSpacing="0.2"
+        android:text="博餅規則"
+        android:textColor="#ca5038"
+        android:textSize="60sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="108dp"
+        android:layout_height="129dp"
+        android:layout_marginStart="-15dp"
+        android:layout_marginTop="15dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/png3" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="359dp"
+        android:layout_height="380dp"
+        android:layout_marginTop="25dp"
+        app:layout_constraintEnd_toEndOf="@id/imageView6"
+        app:layout_constraintStart_toStartOf="@id/imageView6"
+        app:layout_constraintTop_toBottomOf="@id/textView4"
+        app:srcCompat="@drawable/list1" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="412dp"
+        android:layout_height="215dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/list2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
