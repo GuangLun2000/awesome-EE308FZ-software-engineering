@@ -16,7 +16,6 @@
 
 [【Lab2-2】：Brilliant Android App for Bobing Game](https://bbs.csdn.net/topics/609128455?spm=1001.2014.3001.6377)
 
-[【Lab3-1】: Br]()
 
 
 
