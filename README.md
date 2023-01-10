@@ -16,7 +16,9 @@
 
 [【Lab2-2】：Brilliant Android App for Bobing Game](https://bbs.csdn.net/topics/609128455?spm=1001.2014.3001.6377)
 
-【Lab3-1】：IoT Garbage Manager
+[【Lab3-1】：IoT Garbage Manager (Topic Selection)](https://bbs.csdn.net/topics/610134594)
+
+[【Lab3-2】：IoT Garbage Manager (Sprint Summary)](https://bbs.csdn.net/topics/611178114)
 
 
 ## Statement
